@@ -9,7 +9,10 @@ Components:
 - To measure the pressure I used a sensor which is power with 5V and gives a signal between 0 and 4.5V, which corresponds from 0 to 12 bar (pressure over 6 bar is not expected, so the signal voltage should be kept below 3.3V).
 
 Diagram:
+
 ![alt text](img/pressure-diagram.png)
 
+
 You will see your data in Thingspeak:
+
 ![alt text](img/Thingspeak%20chart.png)
